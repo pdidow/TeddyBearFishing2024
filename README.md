@@ -30,7 +30,7 @@ Features
 If you’d like to help bring this game to completion, see Contributing below.
 Controls
 
-    Keyboard: (Planned) Arrow keys or WASD to move, spacebar to cast and reel.
+    Keyboard: (Planned) Arrow keys or WASD to move, spacebar to cast and reel. Also mouse for menus.
     DirectInput Controller (e.g., Xbox controller):
         (Planned) Left joystick or D-pad to move, Button A to cast and reel, Button B to cancel actions.
 
